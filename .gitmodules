@@ -8,8 +8,3 @@
 	url = https://github.com/rempsyc/rempsyc
 	shallow = true
 	registered = true
-[submodule "openxlsx2"]
-	path = openxlsx2
-	url = https://github.com/JanMarvin/openxlsx2
-	shallow = true
-	registered = false
