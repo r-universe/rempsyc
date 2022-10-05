@@ -5,6 +5,6 @@
   },
   {
     "package": "lavaanExtra",
-    "oncran": false
+    "oncran": true
   }
 ]
