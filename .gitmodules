@@ -18,3 +18,8 @@
 	url = https://github.com/easystats/effectsize
 	shallow = true
 	registered = false
+[submodule "qqplotr"]
+	path = qqplotr
+	url = https://github.com/aloy/qqplotr
+	shallow = true
+	registered = false

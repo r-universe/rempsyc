@@ -4,5 +4,11 @@
     "url": "https://github.com/easystats/effectsize",
     "via": ["rempsyc"],
     "from": "rempsyc"
+  },
+  {
+    "package": "qqplotr",
+    "url": "https://github.com/aloy/qqplotr",
+    "via": ["rempsyc"],
+    "from": "rempsyc"
   }
 ]
