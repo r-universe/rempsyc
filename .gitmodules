@@ -13,3 +13,8 @@
 	url = https://github.com/rempsyc/lavaanExtra
 	shallow = true
 	registered = true
+[submodule "effectsize"]
+	path = effectsize
+	url = https://github.com/easystats/effectsize
+	shallow = true
+	registered = false
