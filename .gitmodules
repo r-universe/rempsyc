@@ -13,13 +13,3 @@
 	url = https://github.com/rempsyc/lavaanExtra
 	shallow = true
 	registered = true
-[submodule "effectsize"]
-	path = effectsize
-	url = https://github.com/easystats/effectsize
-	shallow = true
-	registered = false
-[submodule "qqplotr"]
-	path = qqplotr
-	url = https://github.com/aloy/qqplotr
-	shallow = true
-	registered = false
