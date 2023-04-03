@@ -13,8 +13,3 @@
 	url = https://github.com/rempsyc/lavaanExtra
 	shallow = true
 	registered = true
-[submodule "flextable"]
-	path = flextable
-	url = https://github.com/davidgohel/flextable
-	shallow = true
-	registered = false
