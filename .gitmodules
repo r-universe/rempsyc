@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/rempsyc/universe
-	shallow = true
 	branch = HEAD
 [submodule "rempsyc"]
 	path = rempsyc
 	url = https://github.com/rempsyc/rempsyc
-	shallow = true
-	registered = true
 [submodule "lavaanExtra"]
 	path = lavaanExtra
 	url = https://github.com/rempsyc/lavaanExtra
-	shallow = true
-	registered = true
