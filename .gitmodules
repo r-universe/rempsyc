@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/rempsyc/universe
 	branch = HEAD
-[submodule "rempsyc"]
-	path = rempsyc
-	url = https://github.com/rempsyc/rempsyc
 [submodule "lavaanExtra"]
 	path = lavaanExtra
 	url = https://github.com/rempsyc/lavaanExtra
+[submodule "rempsyc"]
+	path = rempsyc
+	url = https://github.com/rempsyc/rempsyc
