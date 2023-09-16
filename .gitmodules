@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/rempsyc/universe
 	branch = HEAD
+[submodule "ggflags"]
+	path = ggflags
+	url = https://github.com/jimjam-slam/ggflags
+	registered = false
 [submodule "githubContributors"]
 	path = githubContributors
 	url = https://github.com/rempsyc/githubContributors
