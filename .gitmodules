@@ -18,3 +18,7 @@
 [submodule "rempsyc"]
 	path = rempsyc
 	url = https://github.com/rempsyc/rempsyc
+[submodule "waffle"]
+	path = waffle
+	url = https://github.com/hrbrmstr/waffle
+	registered = false

@@ -4,5 +4,11 @@
     "url": "https://github.com/jimjam-slam/ggflags",
     "via": ["pubmedDashboard"],
     "from": "pubmedDashboard"
+  },
+  {
+    "package": "waffle",
+    "url": "https://github.com/hrbrmstr/waffle",
+    "via": ["pubmedDashboard"],
+    "from": "pubmedDashboard"
   }
 ]
