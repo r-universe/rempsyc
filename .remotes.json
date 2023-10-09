@@ -6,12 +6,6 @@
     "from": "pubmedDashboard"
   },
   {
-    "package": "rempsyc",
-    "url": "https://github.com/rempsyc/rempsyc",
-    "via": ["lavaanExtra"],
-    "from": "lavaanExtra"
-  },
-  {
     "package": "waffle",
     "url": "https://github.com/hrbrmstr/waffle",
     "via": ["pubmedDashboard"],
