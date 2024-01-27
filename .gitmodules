@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/rempsyc/universe
+	url = https://github.com/rempsyc/rempsyc.r-universe.dev
 	branch = HEAD
 [submodule "ggflags"]
 	path = ggflags
