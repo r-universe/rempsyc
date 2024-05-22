@@ -2,8 +2,20 @@
   {
     "package": "ggflags",
     "url": "https://github.com/jimjam-slam/ggflags",
+    "via": ["pubDashboard"],
+    "from": "pubDashboard"
+  },
+  {
+    "package": "ggflags",
+    "url": "https://github.com/jimjam-slam/ggflags",
     "via": ["pubmedDashboard"],
     "from": "pubmedDashboard"
+  },
+  {
+    "package": "waffle",
+    "url": "https://github.com/hrbrmstr/waffle",
+    "via": ["pubDashboard"],
+    "from": "pubDashboard"
   },
   {
     "package": "waffle",
