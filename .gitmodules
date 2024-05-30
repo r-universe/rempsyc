@@ -12,6 +12,9 @@
 [submodule "lavaanExtra"]
 	path = lavaanExtra
 	url = https://github.com/rempsyc/lavaanExtra
+[submodule "pubDashboard"]
+	path = pubDashboard
+	url = https://github.com/rempsyc/pubDashboard
 [submodule "pubmedDashboard"]
 	path = pubmedDashboard
 	url = https://github.com/rempsyc/pubmedDashboard
