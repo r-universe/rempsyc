@@ -5,6 +5,9 @@
 [submodule "adhoc"]
 	path = adhoc
 	url = https://github.com/rempsyc/adhoc
+[submodule "flightanalysis"]
+	path = flightanalysis
+	url = https://github.com/rempsyc/flightanalysis
 [submodule "ggflags"]
 	path = ggflags
 	url = https://github.com/jimjam-slam/ggflags
