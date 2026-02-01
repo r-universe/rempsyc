@@ -8,10 +8,6 @@
 [submodule "flightanalysis"]
 	path = flightanalysis
 	url = https://github.com/rempsyc/flightanalysis
-[submodule "ggflags"]
-	path = ggflags
-	url = https://github.com/jimjam-slam/ggflags
-	registered = false
 [submodule "githubContributors"]
 	path = githubContributors
 	url = https://github.com/rempsyc/githubContributors
@@ -27,7 +23,3 @@
 [submodule "rempsyc"]
 	path = rempsyc
 	url = https://github.com/rempsyc/rempsyc
-[submodule "waffle"]
-	path = waffle
-	url = https://github.com/hrbrmstr/waffle
-	registered = false
